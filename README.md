@@ -1,20 +1,23 @@
 It's a simple To-Do Mobile Application made with Flutter and Firebase.
 
 Home Screen :
-![home_screen](https://user-images.githubusercontent.com/51197509/228787707-5c6a6ca7-52fc-4bbd-aafb-891b2372ef33.PNG)
+![home](https://user-images.githubusercontent.com/51197509/229427034-91217fab-09f1-471d-8bbd-b7d3b05f9add.png)
+
+
 
 
 Add Task :
-![add_task](https://user-images.githubusercontent.com/51197509/228787754-9d3a6d60-247f-4cb2-a020-42096714fd3e.PNG)
+![add](https://user-images.githubusercontent.com/51197509/229427041-2ae17076-ae51-485b-8b3d-aa11fece41aa.png)
+
 
 
 Update Task :
-![update_task](https://user-images.githubusercontent.com/51197509/228788589-3ccd0775-6aef-4a6e-8759-a90545a84978.PNG)
+![update](https://user-images.githubusercontent.com/51197509/229427042-992bcdaf-bc51-4216-9641-597f544b3b47.png)
+
 
 
 Delete Task :
-![delete_task](https://user-images.githubusercontent.com/51197509/228787820-204cef5a-e5b3-4011-9c81-debbdf93b9d3.PNG)
+![delete](https://user-images.githubusercontent.com/51197509/229427046-6e07a793-b776-450a-a230-2fa27d71ab0e.png)
 
 
-Filter Task :
-![filter_task](https://user-images.githubusercontent.com/51197509/228787860-cebbab0c-8649-4f8d-a092-30f359c9107a.PNG)
+
